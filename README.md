@@ -67,7 +67,7 @@ The analysis results are summarized as follows:
 
 ### Limitations
 
-- I had to remove all two decimal points of the revenue and profit columns because they would have affected the accuracy of my conclusions from the analysis. I had to Seperate the Date Column so as to get the Month in Text format and not number
+- I had to remove all two decimal points of the revenue and profit columns because they would have affected the accuracy of my conclusions from the analysis. I had to Seperate the Date Column so as to get the Month in words and not number
 
 💻
 
